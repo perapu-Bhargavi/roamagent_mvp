@@ -1,0 +1,49 @@
+{
+  "routes": [
+    {
+      "id": "BUS001",
+      "from": "Hyderabad",
+      "to": "Vijayawada",
+      "departure": "08:00",
+      "arrival": "12:00",
+      "fare": 500,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS002",
+      "from": "Vijayawada",
+      "to": "Tirupati",
+      "departure": "13:00",
+      "arrival": "19:00",
+      "fare": 600,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS003",
+      "from": "Hyderabad",
+      "to": "Vijayawada",
+      "departure": "09:00",
+      "arrival": "13:00",
+      "fare": 450,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS004",
+      "from": "Vijayawada",
+      "to": "Tirupati",
+      "departure": "14:30",
+      "arrival": "20:30",
+      "fare": 550,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS005",
+      "from": "Hyderabad",
+      "to": "Tirupati",
+      "departure": "06:00",
+      "arrival": "18:00",
+      "fare": 1200,
+      "mode": "bus"
+    }
+  ]
+}
