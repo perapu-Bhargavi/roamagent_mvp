@@ -21,28 +21,73 @@
     {
       "id": "BUS003",
       "from": "Hyderabad",
-      "to": "Vijayawada",
-      "departure": "09:00",
-      "arrival": "13:00",
-      "fare": 450,
+      "to": "Tirupati",
+      "departure": "07:00",
+      "arrival": "15:00",
+      "fare": 900,
       "mode": "bus"
     },
     {
       "id": "BUS004",
-      "from": "Vijayawada",
-      "to": "Tirupati",
-      "departure": "14:30",
-      "arrival": "20:30",
-      "fare": 550,
+      "from": "Hyderabad",
+      "to": "Vijayawada",
+      "departure": "10:00",
+      "arrival": "14:30",
+      "fare": 450,
       "mode": "bus"
     },
     {
       "id": "BUS005",
+      "from": "Vijayawada",
+      "to": "Visakhapatnam",
+      "departure": "15:30",
+      "arrival": "21:30",
+      "fare": 550,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS006",
       "from": "Hyderabad",
-      "to": "Tirupati",
-      "departure": "06:00",
-      "arrival": "18:00",
-      "fare": 1200,
+      "to": "Visakhapatnam",
+      "departure": "06:30",
+      "arrival": "16:00",
+      "fare": 1100,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS007",
+      "from": "Tirupati",
+      "to": "Chennai",
+      "departure": "20:00",
+      "arrival": "23:30",
+      "fare": 400,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS008",
+      "from": "Visakhapatnam",
+      "to": "Vijayawada",
+      "departure": "09:00",
+      "arrival": "15:00",
+      "fare": 550,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS009",
+      "from": "Chennai",
+      "to": "Bengaluru",
+      "departure": "07:00",
+      "arrival": "13:00",
+      "fare": 650,
+      "mode": "bus"
+    },
+    {
+      "id": "BUS010",
+      "from": "Vijayawada",
+      "to": "Chennai",
+      "departure": "14:00",
+      "arrival": "22:00",
+      "fare": 800,
       "mode": "bus"
     }
   ]
